@@ -1,0 +1,14 @@
+{
+  "name": "scoreboard-client",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.23.0"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "proxy": "http://localhost:5000"
+}
